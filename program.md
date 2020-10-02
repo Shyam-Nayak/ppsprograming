@@ -6,7 +6,7 @@ PROGRAMMING FOR PROBLEM SOLVING (ESC-18104/18105)
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWSUayfoqbH5tBpS-an1cNLST3kJp_uXQO9Ym8Cz3FsuI97hs8&s)
 
 
-NAME : shyam nayak
+NAME : Shyam Nayak
 
 ROLL NO : 1921099
 BRANCH : INFORMATION TECHNOLOGY 
@@ -35,7 +35,7 @@ scanf("%f", &x);
 printf("\nEnter The Second Numder: ");
 scanf("%f", &y);
 z = x+y;
-printf("\nThe sum of two numbers = %f", z);
+printf("\nThe sum of two numbers are : %f", z);
 return 0;
 }
 
